@@ -4,3 +4,6 @@
 
 - Conteúdo;
 - Semântico (tags);
+
+`<!DOCTYPE html>`
+

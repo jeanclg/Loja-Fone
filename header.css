@@ -1,9 +1,14 @@
 header {
     background-color: #e24647;
+    position: relative;
 }
 
 h1, a {
     color: #fff;
+}
+
+h1, .navegacao {
+    display: inline;
 }
 
 h1 {
@@ -15,4 +20,8 @@ a {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 21px;
     text-decoration: none;
+}
+
+.navegacao {
+    float: right;
 }

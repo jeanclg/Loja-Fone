@@ -21,4 +21,16 @@ nav {
 a {
     text-decoration: none;
     color: inherit;
+    padding: 0 30px;
+}
+
+p {
+    background-color: #252c41;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: #fff;
+    float: right;
+    padding: 19px 60px;
+    margin-right: 280px;
+    margin-top: 958px;
 }

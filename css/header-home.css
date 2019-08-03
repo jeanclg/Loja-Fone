@@ -1,4 +1,4 @@
-header {
+.header-home {
     background-color: #e24647;
     color:#fff;
     overflow: hidden;
@@ -6,19 +6,19 @@ header {
     padding: 55px 60px 95px;
 }
 
-h1 {
+.logo {
     font-size: 40px;
     font-family: Arial, Helvetica, sans-serif;
     float: left;
 }
 
-nav {
+.navigation {
     font-size: 21px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     float: right;
 }
 
-a {
+.action {
     text-decoration: none;
     color: inherit;
     margin-right: 60px;
@@ -26,13 +26,4 @@ a {
 
 .last {
     margin: 0;
-}
-
-p {
-    background-color: #252c41;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 20px;
-    color: #fff;
-    float: right;
-    padding: 19px 60px;
 }

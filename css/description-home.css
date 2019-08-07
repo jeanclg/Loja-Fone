@@ -1,0 +1,24 @@
+.description-home {
+    font-family: 'Roboto', sans-serif;
+    color: #fff;
+    text-decoration: none;
+}
+
+.description-home.-summary {
+    font-size: 25px;
+    margin-bottom: 100px;
+    margin-top: 154px;
+}
+
+.description-home.-rateprice{
+    font-size: 20px;
+    margin-bottom: 28px;
+}
+
+.description-home.-last {
+    margin-bottom: 73px;
+}
+
+.description-home.-about {
+    font-size: 18px;
+}

@@ -7,6 +7,8 @@
     font-size: 40px;
     font-family: Arial, Helvetica, sans-serif;
     float: left;
+    text-transform: uppercase;
+    margin-bottom: 138px;
 }
 
 .header-home > .navigation {

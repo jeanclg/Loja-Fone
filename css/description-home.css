@@ -8,7 +8,15 @@
 
 .description-home > .title {
     font-size: 25px;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
+}
+
+.description-home > .images {
+    margin-bottom: 25px;
+}
+
+.description-home > .images > .-image {
+    margin-right: 9px;
 }
 
 .description-home > .item {

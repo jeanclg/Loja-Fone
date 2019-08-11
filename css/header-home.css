@@ -1,6 +1,7 @@
 .header-home {
     color:#fff;
     overflow: hidden;
+    padding-left: 60px;
 }
 
 .header-home > .title {

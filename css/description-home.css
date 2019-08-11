@@ -3,6 +3,7 @@
     color: #fff;
     font-family: 'Roboto', sans-serif;
     width: 550px;
+    vertical-align: middle;
 }
 
 .description-home > .title {
@@ -33,10 +34,6 @@
     font-size: 18px;
     line-height: 30px;
     margin-bottom: 30px;
-}
-
-.description-home > .about.-more {
-    margin-bottom: 98px;
 }
 
 .description-home .action {

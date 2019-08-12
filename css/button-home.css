@@ -1,3 +1,9 @@
+.buttons {
+    position: absolute;
+    top: 572px;
+    left: 0;
+}
+
 .button-home {
     display: inline-block;
     box-sizing: border-box;

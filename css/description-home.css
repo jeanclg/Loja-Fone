@@ -1,9 +1,7 @@
 .description-home {
-    display: inline-block;
     color: #fff;
     font-family: 'Roboto', sans-serif;
-    width: 550px;
-    vertical-align: middle;
+    width: 553px;
 }
 
 .description-home > .title {

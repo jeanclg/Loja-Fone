@@ -15,6 +15,7 @@
 
 .description-home > .images > .image {
     margin-right: 9px;
+    cursor: pointer;
 }
 
 .description-home > .images + .item {

@@ -10,6 +10,7 @@
     float: left;
     text-transform: uppercase;
     margin-bottom: 138px;
+    cursor: pointer;
 }
 
 .header-home [type = "search"] {

@@ -13,8 +13,12 @@
     margin-bottom: 25px;
 }
 
-.description-home > .images > .-image {
+.description-home > .images > .image {
     margin-right: 9px;
+}
+
+.description-home > .images + .item {
+    margin-left: 7px;
 }
 
 .description-home > .item {

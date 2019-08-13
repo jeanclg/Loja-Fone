@@ -12,17 +12,16 @@
     margin-bottom: 138px;
 }
 
-.search {
+.header-home [type = "search"] {
     background-color: transparent;
-    border-top: none;
-    border-left: none;
-    border-right: none;
+    border: none;
     border-bottom: 1px solid #fff;
     width: 358px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
-    color: #fff;
-    margin-left: 602px;
+    color: inherit;
+    padding: 8px;
+    margin-right: 65px;
 }
 
 ::-moz-placeholder {

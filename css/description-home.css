@@ -46,6 +46,10 @@
     margin-bottom: 30px;
 }
 
+.description-home > .about.-more {
+    margin: 0;
+}
+
 .description-home .action {
     color: inherit;
     text-decoration: none;

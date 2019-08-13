@@ -30,3 +30,13 @@
     font-size: inherit;
     text-decoration: none;
 }
+
+.button-home:hover {
+    background-color: #fff;
+    color: #252c41;
+}
+
+.button-home.-second:hover {
+    background-color: #fff;
+    color: #e24647;
+}

@@ -9,6 +9,12 @@
     margin-bottom: 50px;
 }
 
+.description-home > .heart {
+    position: absolute;
+    top: 9px;
+    transform: translateX(calc(-100% - 47px));
+}
+
 .description-home > .images {
     margin-bottom: 25px;
 }

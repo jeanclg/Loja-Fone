@@ -9,9 +9,3 @@
     bottom: 0;
     transform: translateY(calc(100% + 98px));
 }
-
-.wrap-home >.heart-home {
-    position: absolute;
-    top: 9px;
-    transform: translateX(calc(-100% - 47px));
-}

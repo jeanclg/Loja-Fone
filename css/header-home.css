@@ -41,6 +41,10 @@
     margin-right: 60px;
 }
 
+.header-home .action:hover {
+    border-bottom: 1px solid #fff;
+}
+
 .header-home .action.-last {
     margin: 0;
 }

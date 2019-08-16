@@ -2,6 +2,7 @@
     color: #fff;
     font-family: 'Roboto', sans-serif;
     width: 553px;
+    transition: all 300ms linear;
 }
 
 .description-home > .title {
@@ -13,6 +14,11 @@
     position: absolute;
     top: 9px;
     transform: translateX(calc(-100% - 47px));
+    cursor: pointer;
+}
+
+.description-home > .heart:hover {
+    transform: translateX(calc(-100% - 47px)) scale(1.5);
 }
 
 .description-home > .images {
@@ -22,6 +28,10 @@
 .description-home > .images > .image {
     margin-right: 9px;
     cursor: pointer;
+}
+
+.description-home > .images > .image:hover {
+    transform: scale(1.25);
 }
 
 .description-home > .images + .item {

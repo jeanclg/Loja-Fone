@@ -41,8 +41,16 @@
     margin-right: 60px;
 }
 
-.header-home .action:hover {
+.header-home .action::after {
+    content: "";
+    display: inline-block;
+    width: 0;
     border-bottom: 1px solid #fff;
+    transition: .5s;
+}
+
+.header-home .action:hover::after {
+    width: 15%;
 }
 
 .header-home .action.-last {

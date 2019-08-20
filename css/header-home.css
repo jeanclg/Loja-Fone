@@ -39,18 +39,25 @@
     text-decoration: none;
     color: inherit;
     margin-right: 60px;
+    padding: 8px;
+    position: relative;
 }
 
 .header-home .action::after {
     content: "";
-    display: inline-block;
-    width: 0;
-    border-bottom: 1px solid #fff;
-    transition: .5s;
+    position: absolute;
+    height: 1px;
+    width: 100%;
+    background-color: #fff;
+    bottom: 0;
+    left: 0;
+    transform: scaleX(0);
+    transform-origin: center left;
+    transition: transform 200ms linear;
 }
 
 .header-home .action:hover::after {
-    width: 15%;
+    transform: scaleX(1.2);
 }
 
 .header-home .action.-last {

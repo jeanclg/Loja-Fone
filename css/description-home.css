@@ -17,20 +17,20 @@
     cursor: pointer;
 }
 
-.description-home > .heart:hover {
-    transform: translateX(calc(-100% - 47px)) scale(1.5);
-}
-
 .description-home > .images {
     margin-bottom: 25px;
 }
 
 .description-home > .images > .image {
     margin-right: 9px;
-    cursor: pointer;
 }
 
-.description-home > .images > .image:hover {
+.description-home .image {
+    cursor: pointer;
+    transition: transform 100ms linear;
+}
+
+.description-home .image:hover {
     transform: scale(1.25);
 }
 

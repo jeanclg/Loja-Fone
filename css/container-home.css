@@ -18,10 +18,22 @@
     }
 }
 
-@media (max-height: 952px) {
+@media (max-height: 955px) {
     .container-home {
         max-width: 1330px;
         margin-left: auto;
         margin-right: auto;
+    }
+}
+
+@media (max-width: 955px) {
+    .container-home {
+        padding-right: 30px;
+    }
+}
+
+@media (max-width: 375px) {
+    .container-home {
+        padding-right: 16px;
     }
 }

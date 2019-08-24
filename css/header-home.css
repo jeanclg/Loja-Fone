@@ -106,12 +106,18 @@
 
 @media (max-width: 410px) {
     .header-home .action {
-        margin-right: 8px;
+        margin-right: 6px;
     }
 }
 
-@media (max-width: 385px) {
-    .header-home > .navigation {
+@media (max-width: 372px) {
+    .header-home .action {
+        margin-right: 2px;
+    }
+}
+
+@media (max-width: 365px) {
+    .header-home .action {
         display: none;
     }
 }

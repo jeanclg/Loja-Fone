@@ -7,3 +7,15 @@
     border-bottom-right-radius: 150px;
     margin-right: 157px;
 }
+
+@media (max-width: 1322px) {
+    .photo-home {
+        margin-right: 100px;
+    }
+}
+
+@media (max-width: 1265px) {
+    .photo-home {
+        margin-right: 25px;
+    }
+}

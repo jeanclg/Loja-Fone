@@ -71,3 +71,11 @@
     color: inherit;
     text-decoration: none;
 }
+
+@media (max-width: 1265px) {
+    .description-home > .heart {
+        transform: none;
+        top: 75px;
+        left: 190px;
+    }
+}

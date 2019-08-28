@@ -44,3 +44,21 @@
     font-size: inherit;
     text-decoration: none;
 }
+
+@media (max-width: 1189px) {
+    .button-home.-second {
+        margin-right: 0;
+    }
+}
+
+@media (max-width: 1086px) {
+    .button-home {
+        width: 140px;
+        box-sizing: content-box;
+    }
+
+    .button-home.-second {
+        padding: 0;
+        width: 200px;
+    }
+}

@@ -79,3 +79,19 @@
         left: 190px;
     }
 }
+
+@media (max-width: 1189px) {
+    .description-home {
+        width: 450px;
+    }
+}
+
+@media (max-width: 1086px) {
+    .description-home {
+        width: 350px;
+    }
+}
+
+@media (max-width: 986px) {
+    
+}

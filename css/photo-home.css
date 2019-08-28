@@ -19,3 +19,16 @@
         margin-right: 25px;
     }
 }
+
+@media (max-width: 986px) {
+    .photo-home {
+        position: relative;
+        border-radius: 0;
+        width: 100%;
+    }
+
+    .photo-home .phone {
+        position: absolute;
+        transform: translateX(40%)
+    }
+}

@@ -62,7 +62,7 @@
 }
 
 .header-home .action.-last {
-    margin-right: 0;
+    margin-right: 60px;
 }
 
 @media (max-width: 1235px) {
@@ -105,19 +105,19 @@
 }
 
 @media (max-width: 410px) {
-    .header-home .action {
+    .header-home .action, .action.-last {
         margin-right: 6px;
     }
 }
 
 @media (max-width: 372px) {
-    .header-home .action {
+    .header-home .action, .action.-last {
         margin-right: 2px;
     }
 }
 
 @media (max-width: 365px) {
-    .header-home .action {
+    .header-home .action, .action.-last {
         display: none;
     }
 }

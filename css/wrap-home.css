@@ -9,3 +9,9 @@
     bottom: 0;
     transform: translateY(calc(100% + 98px));
 }
+
+@media (max-width: 986px) {
+    .wrap-home {
+        margin-left: 25%;
+    }
+}

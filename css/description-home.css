@@ -93,5 +93,7 @@
 }
 
 @media (max-width: 986px) {
-    
+    .description-home {
+        width: 550px;
+    }
 }

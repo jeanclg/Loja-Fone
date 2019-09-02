@@ -10,26 +10,15 @@
 
 @media (max-width: 1322px) {
     .photo-home {
-        margin-right: 100px;
-    }
-}
-
-@media (max-width: 1265px) {
-    .photo-home {
-        margin-right: 25px;
-    }
-}
-
-@media (max-width: 986px) {
-    .photo-home {
-        position: relative;
+        margin-right: 140px;
+        text-align: center;
         border-radius: 0;
-        width: 100%;
-        margin-bottom: 50px;
     }
+}
 
-    .photo-home .phone {
-        position: absolute;
-        transform: translateX(40%)
+@media (max-width: 1310px) {
+    .photo-home {
+        display: block;
+        margin-right: 0;
     }
 }

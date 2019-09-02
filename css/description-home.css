@@ -72,7 +72,7 @@
     text-decoration: none;
 }
 
-@media (max-width: 1265px) {
+/* @media (max-width: 1265px) {
     .description-home > .heart {
         transform: none;
         top: 75px;
@@ -96,4 +96,4 @@
     .description-home {
         width: 550px;
     }
-}
+} */

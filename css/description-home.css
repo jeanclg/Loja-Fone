@@ -72,28 +72,15 @@
     text-decoration: none;
 }
 
-/* @media (max-width: 1265px) {
-    .description-home > .heart {
-        transform: none;
-        top: 75px;
-        left: 190px;
+@media (max-width: 1310px) {
+    .description-home {
+        width: 50%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .description-home > .title {
+        font-size: 35px;
+        text-align: center;
     }
 }
-
-@media (max-width: 1189px) {
-    .description-home {
-        width: 450px;
-    }
-}
-
-@media (max-width: 1086px) {
-    .description-home {
-        width: 350px;
-    }
-}
-
-@media (max-width: 986px) {
-    .description-home {
-        width: 550px;
-    }
-} */

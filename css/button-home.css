@@ -45,31 +45,17 @@
     text-decoration: none;
 }
 
-@media (max-width: 1189px) {
+@media (max-width: 500px) {
     .button-home.-second {
-        margin-right: 0;
+        margin-right: 20px;
     }
 }
 
-@media (max-width: 1086px) {
-    .button-home {
-        width: 140px;
-        box-sizing: content-box;
-    }
-
-    .button-home.-second {
-        padding: 0;
-        width: 200px;
-    }
-}
-
-@media (max-width: 986px) {
-    .button-home {
-        width: 200px;
-    }
-
-    .button-home.-second {
-        width: 218px;
-        margin-right: 38px;
+@media (max-width: 470px) {
+    .button-home, .button-home.-second {
+        display: block;
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
     }
 }

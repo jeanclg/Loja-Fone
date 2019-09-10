@@ -20,5 +20,16 @@
     .photo-home {
         display: block;
         margin-right: 0;
+        margin-bottom: 30px;
+    }
+}
+
+@media (max-width: 560px) {
+    .photo-home {
+        height: auto;
+    }
+
+    .photo-home > .phone {
+        width: 100%;
     }
 }

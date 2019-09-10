@@ -83,6 +83,14 @@
         font-size: 35px;
         text-align: center;
     }
+
+    .description-home > .images {
+        float: left;
+    }
+
+    .description-home > .item {
+        padding-top: 4px;
+    }
 }
 
 @media (max-width: 720px) {

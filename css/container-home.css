@@ -8,6 +8,8 @@
     width: 90%;
     max-width: 1330px;
     padding: 55px 60px 165px 0;
+    margin-top: 5%;
+    margin-bottom: 5%;
 }
 
 @media (max-width: 1470px), (max-height: 952px) {
@@ -27,15 +29,3 @@
         margin-right: auto;
     }
 }
-/* 
-@media (max-width: 955px) {
-    .container-home {
-        padding-right: 30px;
-    }
-}
-
-@media (max-width: 400px) {
-    .container-home {
-        padding-right: 8px;
-    }
-} */

@@ -17,6 +17,10 @@
     cursor: pointer;
 }
 
+.description-home > .heart.-active {
+    background-color: #fff;
+}
+
 .description-home > .images {
     margin-bottom: 25px;
 }

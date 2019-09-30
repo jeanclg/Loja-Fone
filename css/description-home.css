@@ -18,7 +18,7 @@
 }
 
 .description-home > .heart.-active {
-    background-color: #fff;
+    content: url("/assets/heart-active.png");
 }
 
 .description-home > .images {
@@ -32,6 +32,10 @@
 .description-home .image {
     cursor: pointer;
     transition: transform 100ms linear;
+}
+
+.description-home > .-star1Active {
+    content: url("/assets/star.png");
 }
 
 .description-home .image:hover {

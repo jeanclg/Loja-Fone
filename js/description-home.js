@@ -19,21 +19,21 @@ function HandleClick() {
 }
 
 function StarsClick1() {
-    $star1.classList.toggle("-star1Active");
+    $star1.classList.toggle("-active");
 }
 
 function StarsClick2() {
-    $star1.classList.toggle("-star1");
+    null;
 }
 
 function StarsClick3() {
-    $star1.classList.toggle("-star1");
+    null;
 }
 
 function StarsClick4() {
-    $star1.classList.toggle("-star1");
+    null;
 }
 
 function StarsClick5() {
-    $star1.classList.toggle("-star1");
+    null;
 }

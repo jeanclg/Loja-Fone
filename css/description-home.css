@@ -34,7 +34,7 @@
     transition: transform 100ms linear;
 }
 
-.description-home > .-star1Active {
+.description-home > .images > .-star1.-active {
     content: url("/assets/star.png");
 }
 
